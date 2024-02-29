@@ -1,3 +1,7 @@
+.hh{
+    border: 1px solid rgb(0, 140, 255);
+}
+
 td{
     border: 1px solid red;
 }
